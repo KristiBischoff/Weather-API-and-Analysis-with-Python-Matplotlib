@@ -29,6 +29,20 @@ We can not conclude from this random sample that there is a direct relationship 
 
 Latitude (degrees) vs. cloudiness (%) did not show a prominent relationship but a lot of cities are at the 0%, 20%, and 80-100% cloudiness points.
 
+## Visualizations:
+
+### Humidity vs. Latitude
+![HumLat](HumLat.png)
+
+### Temperature vs. Latitude
+![TempLat](TempLat.png)
+
+### Cloudiness vs. Latitude
+![CloudLat](CloudLat.png)
+
+### Windiness vs. Latitude
+![WindLat](WindLat.png)
+
 ## Copyright
 
 Data Boot Camp (C) 2018. All Rights Reserved.
