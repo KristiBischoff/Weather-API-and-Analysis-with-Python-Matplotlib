@@ -43,6 +43,3 @@ Latitude (degrees) vs. cloudiness (%) did not show a prominent relationship but 
 ### Windiness vs. Latitude
 ![WindLat](WindLat.png)
 
-## Copyright
-
-Data Boot Camp (C) 2018. All Rights Reserved.
